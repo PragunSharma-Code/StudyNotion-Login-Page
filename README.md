@@ -19,5 +19,5 @@ A platform for instructors to showcase their expertise and connect with learners
  <br>
  <img src='https://github.com/PragunSharma-Code/StudyNotion-Login-Page/blob/main/src/assets/Screenshot%20(32).png'>
 <br>
-<hr>
+<br>
 Thank You😊😊😊😊
