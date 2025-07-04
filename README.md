@@ -1,5 +1,4 @@
-# React Router Project Starter
-<h1>StudyNotion Login-Page</h1>
+#StudyNotion Login-Page
 <br>
 <p>This is the part component of the whole studyNotion which is </p>
 <p>
@@ -11,7 +10,12 @@
 <li>A seamless and interactive learning experience for students, making education more accessible and engaging.</li>
 <li>
 A platform for instructors to showcase their expertise and connect with learners across the globe.<li>
-
+ <br>
+<img src='https://github.com/PragunSharma-Code/StudyNotion-Login-Page/blob/main/src/assets/Screenshot%20(29).png'>
+ <br>
+ <img src='https://github.com/PragunSharma-Code/StudyNotion-Login-Page/blob/main/src/assets/Screenshot%20(30).png'>
+ <br>
+ <img src='https://github.com/PragunSharma-Code/StudyNotion-Login-Page/blob/main/src/assets/Screenshot%20(32).png'>
 <br>
 <hr>
 Thank You😊😊😊😊
