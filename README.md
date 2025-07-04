@@ -9,7 +9,9 @@
 <ol>
 <li>A seamless and interactive learning experience for students, making education more accessible and engaging.</li>
 <li>
-A platform for instructors to showcase their expertise and connect with learners across the globe.<li>
+A platform for instructors to showcase their expertise and connect with learners across the globe.
+ </li>
+</ol>
  <br>
 <img src='https://github.com/PragunSharma-Code/StudyNotion-Login-Page/blob/main/src/assets/Screenshot%20(29).png'>
  <br>
